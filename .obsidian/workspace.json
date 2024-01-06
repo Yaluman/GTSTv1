@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#github",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,11 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "310302acc5581560",
+  "active": "e3c0b8e7f69c0de9",
   "lastOpenFiles": [
-    "Untitled.md",
-    "DAY 1  Ethical hacking.md",
+    "README.md",
     "day 2-linux.md",
-    "README.md"
+    "DAY 1  Ethical hacking.md",
+    "Untitled.md"
   ]
 }
