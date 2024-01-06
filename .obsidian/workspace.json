@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAY 1.md",
+                "file": "DAY 1  Ethical hacking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAY 1.md",
+                "file": "DAY 1  Ethical hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAY 1.md",
+                "file": "DAY 1  Ethical hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAY 1.md"
+                "file": "DAY 1  Ethical hacking.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "310302acc5581560",
   "lastOpenFiles": [
+    "Untitled.md",
+    "DAY 1  Ethical hacking.md",
     "day 2-linux.md",
-    "DAY 1.md",
     "README.md"
   ]
 }

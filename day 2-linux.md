@@ -1,1 +1,1 @@
-linux is only god knows
+linux 
