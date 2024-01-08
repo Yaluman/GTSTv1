@@ -1,6 +1,6 @@
  #git =  is  version control system or tool
      = *used to manage files*
-#github =is a website where the files saved on
+#github  =is a website where the files saved on
         = folder where files saved (Repository) 
  #hacking= exploiting system vulnerabilities to gain unauthorize access.
           = by finding weak points 
