@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "885506db6c4a73b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "day 4-further on linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,8 +61,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
-                "matchingCase": false,
+                "query": "tag:#/dev",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -70,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9a0d4056dedf62e1",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "day 3-linux user.md",
+                "file": "day 4-further on linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "day 3-linux user.md",
+                "file": "day 4-further on linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "day 3-linux user.md"
+                "file": "day 4-further on linux.md"
               }
             }
           }
@@ -147,12 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "310302acc5581560",
+  "active": "e3c0b8e7f69c0de9",
   "lastOpenFiles": [
-    "DAY 1  Ethical hacking.md",
     "day 3-linux user.md",
+    "day 4-further on linux.md",
+    "DAY 1  Ethical hacking.md",
     "day 2-linux.md",
-    "README.md",
-    "Untitled.md"
+    "README.md"
   ]
 }
